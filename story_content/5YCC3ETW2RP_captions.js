@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.49.24347.0%0D%0A%0D%0A00:00:00.384%20--%3E%2000:00:04.920%0D%0ANow%20you%20can%20submit%20the%20invoice%20by%20clicking%20the%20button%20at%20the%20bottom%20of%20the%20page.%0D%0A%0D%0A"}')
